@@ -1,0 +1,11 @@
+svg
+{
+    background-color: #EEEEEE;
+}
+
+rect
+{
+    fill : gray;
+    border: 1px;
+    stroke: black;
+}
