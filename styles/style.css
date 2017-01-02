@@ -5,7 +5,6 @@ svg
 
 rect
 {
-    fill : gray;
-    border: 1px;
     stroke: black;
+    stroke-width: 0.05;
 }
