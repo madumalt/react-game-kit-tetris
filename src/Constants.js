@@ -1,6 +1,7 @@
-export const SVG_WIDTH = 500;
-export const SVG_HEIGHT = 900;
+export const SVG_WIDTH = 320;
+export const SVG_HEIGHT = 720;
 export const GRID_SIZE = 30;
+export const BORDER_SIZE = 10;
 export const ShapeDescriptions = [
   // S-Shape
   [[0,0],[1,0],[1,1],[2,1]],
